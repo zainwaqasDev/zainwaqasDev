@@ -61,27 +61,6 @@ A simple yet modern task management application.
 🔗 Repository:
 https://github.com/zainwaqasDev/flutter-todo-app
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zainwaqasDev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainwaqasDev&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=zainwaqasDev&theme=tokyonight"/>
-
-</p>
 
 ---
 
